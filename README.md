@@ -38,3 +38,5 @@ I'm currently part of the 2022-2023 <a href="https://shecodes.com.au/program/plu
 
 
 ---
+
+  <base target="_blank">
